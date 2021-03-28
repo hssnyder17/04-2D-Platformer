@@ -1,14 +1,20 @@
 # Project Name
-Context and date
+04-2D-Platformer from MSCH-C220 27 March 2021
 
-Description
 
 ## Implementation
-Which features you included
+Built using Godot 3.2.3
+
 
 ## References
+2D-Platformer-Character
+Godot Templates
+Kenney Scribble Platformer Assets
+
 
 ## Future Development
+None
+
 
 ## Created by
-Jason Francis
+Hayes Snyder
